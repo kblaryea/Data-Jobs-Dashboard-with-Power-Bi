@@ -1,4 +1,6 @@
 ## Data Jobs Dashboard w/ Power Bi
+![Dashboard page 1]()
+
 
 ### Introduction
 
