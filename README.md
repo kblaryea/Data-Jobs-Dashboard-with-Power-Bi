@@ -16,4 +16,7 @@ This dashboard was developed to support job seekers, career transitioners, and p
 
 
 ### Page 2: Job Title Drill Through
-![Dashboard page 1]()
+![Dashboard page 1](https://github.com/kblaryea/Data-Jobs-Dashboard-with-Power-Bi/blob/main/Page%202%20power%20bi%20project.png)
+
+## Conclusion
+This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.  
