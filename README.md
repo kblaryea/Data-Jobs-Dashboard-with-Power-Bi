@@ -1,6 +1,4 @@
 ## Data Jobs Dashboard w/ Power Bi
-![Dashboard page 1]()
-
 
 ### Introduction
 
@@ -12,3 +10,10 @@ This dashboard was developed to support job seekers, career transitioners, and p
 -  **Core Charts:** Utilized Column, Bar, Line, and Area Charts to compare job counts and track trends over time.
 -  **KPI Indicators & Tables:** Used Cards to display key metrics and tables to provide sortable data.
 -  **Dashboard Design**: Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell data story.
+
+### Page 1: High-Level Market View
+![Dashboard page 1](https://github.com/kblaryea/Data-Jobs-Dashboard-with-Power-Bi/blob/main/Page%201%20power%20bi%20project.png)
+
+
+### Page 2: Job Title Drill Through
+![Dashboard page 1]()
